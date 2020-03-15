@@ -11,6 +11,10 @@ const LoggedOutLinks = () =>{
             <li className="nav-item active mr-3">
                 <NavLink to="/register" className="nav-link">Register</NavLink>
             </li>
+
+            <li className="nav-item active mr-3">
+                <a className="nav-link" href="https://github.com/LiChuanXD/fullstack-mern-post">GitHub</a>
+            </li>
         </ul>
     )
 }
