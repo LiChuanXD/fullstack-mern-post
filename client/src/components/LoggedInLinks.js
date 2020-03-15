@@ -26,7 +26,7 @@ class LoggedInLinks extends Component{
                     </a>
                     <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                         <button onClick={this.handleLogout} className="dropdown-item">Log Out</button>
-                        <button className="dropdown-item" href="/">GitHub</button>
+                        <button className="dropdown-item" href="https://github.com/LiChuanXD/fullstack-mern-post">GitHub</button>
                     </div>
                 </li>
             </ul>
